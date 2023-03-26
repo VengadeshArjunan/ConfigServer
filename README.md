@@ -1,4 +1,11 @@
 # ConfigServer
+
+Dependent project link
+
+1. https://github.com/VengadeshArjunan/ConfigServer
+2. https://github.com/VengadeshArjunan/ConfigClient
+3. https://github.com/VengadeshArjunan/ConfigClient2
+
  config server is used to define the common and specific properties that is needed for the microservices.
 
 http://localhost:8888/application/default
